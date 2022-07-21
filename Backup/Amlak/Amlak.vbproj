@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD2FB3D6-5367-486E-8D5D-9F147952491B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Amlak.My.MyApplication</StartupObject>
+    <RootNamespace>Amlak</RootNamespace>
+    <AssemblyName>Amlak</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ManifestCertificateThumbprint>959EEA3EF53D0D0215A9FDDBC2ADDC1D0CCE9441</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Amlak_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/Amlak/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Amlak.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Amlak.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="bank, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\_ Setup\_ Component\_ DLL\bank.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v9.1.Core, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.Data.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.XtraCharts.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.XtraEditors.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.XtraPivotGrid.v9.1.Core, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.XtraPrinting.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files\DevExpress 2009.1\\Components\Sources\DevExpress.DLL\DevExpress.XtraPrinting.v9.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Program Files\DevExpress 2009.1\\Components\Sources\DevExpress.DLL\DevExpress.XtraReports.v9.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.XtraTreeList.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v9.1, Version=9.1.5.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Avarez\Avarez\bin\Debug\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="Sqldblayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\_ Setup\_ Component\_ DLL\Sqldblayer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="TextualControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Avarez\Avarez\bin\Debug\TextualControl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomControl1.Designer.vb">
+      <DependentUpon>CustomControl1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControl1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DB_NoSaziDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_NoSaziDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DlgView_DBlock.Designer.vb">
+      <DependentUpon>DlgView_DBlock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DlgView_DBlock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAfrad_Momayezi.Designer.vb">
+      <DependentUpon>FrmAfrad_Momayezi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAfrad_Momayezi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalc.Designer.vb">
+      <DependentUpon>FrmCalc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCalc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDBlock.Designer.vb">
+      <DependentUpon>FrmDBlock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDBlock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDerakht.Designer.vb">
+      <DependentUpon>FrmDerakht.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDerakht.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDGheymat_Arseh.Designer.vb">
+      <DependentUpon>FrmDGheymat_Arseh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDGheymat_Arseh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFind.Designer.vb">
+      <DependentUpon>FrmFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFindFard.designer.vb">
+      <DependentUpon>FrmFindFard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFindFard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMahiyat_Fiziki.Designer.vb">
+      <DependentUpon>FrmMahiyat_Fiziki.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMahiyat_Fiziki.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Asli.Designer.vb">
+      <DependentUpon>FrmMoshakhasat_Asli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Asli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Avalieh.Designer.vb">
+      <DependentUpon>FrmMoshakhasat_Avalieh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Avalieh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Eshterak.Designer.vb">
+      <DependentUpon>FrmMoshakhasat_Eshterak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Eshterak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Malekin.Designer.vb">
+      <DependentUpon>FrmMoshakhasat_Malekin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Malekin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Momayezi.Designer.vb">
+      <DependentUpon>FrmMoshakhasat_Momayezi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Momayezi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Sakhteman.Designer.vb">
+      <DependentUpon>FrmMoshakhasat_Sakhteman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Sakhteman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Zamin.Designer.vb">
+      <DependentUpon>FrmMoshakhasat_Zamin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoshakhasat_Zamin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNo_Estefadeh.Designer.vb">
+      <DependentUpon>FrmNo_Estefadeh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNo_Estefadeh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTamlak.designer.vb">
+      <DependentUpon>FrmTamlak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTamlak.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="M_Public.vb" />
+    <Compile Include="PrintRibbonControllerResources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="XRDesignRibbonControllerResources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>XRDesignRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DlgView_DBlock.resx">
+      <DependentUpon>DlgView_DBlock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAfrad_Momayezi.resx">
+      <DependentUpon>FrmAfrad_Momayezi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCalc.resx">
+      <DependentUpon>FrmCalc.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDBlock.resx">
+      <DependentUpon>FrmDBlock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDerakht.resx">
+      <DependentUpon>FrmDerakht.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDGheymat_Arseh.resx">
+      <DependentUpon>FrmDGheymat_Arseh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFind.resx">
+      <DependentUpon>FrmFind.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFindFard.resx">
+      <DependentUpon>FrmFindFard.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMahiyat_Fiziki.resx">
+      <DependentUpon>FrmMahiyat_Fiziki.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoshakhasat_Asli.resx">
+      <DependentUpon>FrmMoshakhasat_Asli.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoshakhasat_Avalieh.resx">
+      <DependentUpon>FrmMoshakhasat_Avalieh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoshakhasat_Eshterak.resx">
+      <DependentUpon>FrmMoshakhasat_Eshterak.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoshakhasat_Malekin.resx">
+      <DependentUpon>FrmMoshakhasat_Malekin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoshakhasat_Momayezi.resx">
+      <DependentUpon>FrmMoshakhasat_Momayezi.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoshakhasat_Sakhteman.resx">
+      <DependentUpon>FrmMoshakhasat_Sakhteman.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoshakhasat_Zamin.resx">
+      <DependentUpon>FrmMoshakhasat_Zamin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNo_Estefadeh.resx">
+      <DependentUpon>FrmNo_Estefadeh.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTamlak.resx">
+      <DependentUpon>FrmTamlak.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PrintRibbonControllerResources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XRDesignRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>XRDesignRibbonControllerResources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Afrad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avarez.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change pass.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daryafti.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\departman.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eblaghiyat.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gofl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hesab.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hesab2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khoroj kamelk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khoroj naghes.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moton.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moton2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ostan.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ostan2.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senf.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tajhiz.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tajhizat2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\users.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Amlak_TemporaryKey.pfx" />
+    <None Include="DB_NoSaziDataSet.xsc">
+      <DependentUpon>DB_NoSaziDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_NoSaziDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_NoSaziDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_NoSaziDataSet.xss">
+      <DependentUpon>DB_NoSaziDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Besm01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1256" standalone="yes"?>
+<Connections>
+  <Connection>
+    <Name>..DB_NoSazi</Name>
+    <ConnectionString>Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=DB_NoSazi;Data Source=.</ConnectionString>
+  </Connection>
+</Connections>

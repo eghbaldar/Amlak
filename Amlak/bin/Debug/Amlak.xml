@@ -1,0 +1,634 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Amlak
+</name>
+</assembly>
+<members>
+<member name="P:Amlak.XRDesignRibbonControllerResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Amlak.XRDesignRibbonControllerResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Amlak.XRDesignRibbonControllerResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Amlak.PrintRibbonControllerResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Amlak.PrintRibbonControllerResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Amlak.PrintRibbonControllerResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.DFNsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_ZaminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_GheymatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_BlockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_SALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_DFNsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Sal_Gheymat_AllDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_CalcDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Calc_SalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_SalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Sal_GheymatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Sal_Gheymat_AllDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Tbl_Moshakhasat_MalekinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_MalekinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_MalekinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Mahiyat_FizikiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Mahiyat_FizikiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_No_EstefadehDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TAmlakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_Zamin1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_Zamin2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_ZaminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Tbl_Moshakhasat_ZaminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_No_EstefadehDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_TBL_Amlak_MostaghelatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_TBL_Amlak_MostaghelatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Amlak_MostaghelatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_DerakhtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_SakhtemanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_SakhtemanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_EshterakDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Afrad_MomayeziDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_MomayeziDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_DFN_BLOCKDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.DFNsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_ZaminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_GheymatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_BlockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_SALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_DFNsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Sal_Gheymat_AllRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_CalcRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Calc_SalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_SalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Sal_GheymatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Sal_Gheymat_AllRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Tbl_Moshakhasat_MalekinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_MalekinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_MalekinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Mahiyat_FizikiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Mahiyat_FizikiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_No_EstefadehRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TAmlakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_Zamin1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_Zamin2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_ZaminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Tbl_Moshakhasat_ZaminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_No_EstefadehRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_TBL_Amlak_MostaghelatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_TBL_Amlak_MostaghelatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Amlak_MostaghelatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_DerakhtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_SakhtemanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_SakhtemanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_EshterakRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Afrad_MomayeziRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_MomayeziRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_DFN_BLOCKRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.DFNsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_ZaminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_GheymatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_BlockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TblDFN_SALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_DFNsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Sal_Gheymat_AllRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_CalcRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Calc_SalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_SalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Sal_GheymatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Sal_Gheymat_AllRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Tbl_Moshakhasat_MalekinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_MalekinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_MalekinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Mahiyat_FizikiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Mahiyat_FizikiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_No_EstefadehRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.TAmlakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_Zamin1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_Zamin2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_ZaminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_Tbl_Moshakhasat_ZaminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_No_EstefadehRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_TBL_Amlak_MostaghelatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.FSelect_TBL_Amlak_MostaghelatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Amlak_MostaghelatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_DerakhtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Tbl_Moshakhasat_SakhtemanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Moshakhasat_SakhtemanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_EshterakRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_Afrad_MomayeziRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_Tbl_MomayeziRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet.Select_DFN_BLOCKRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.DFNsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_Moshakhasat_ZaminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.TblDFN_GheymatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.TblDFN_BlockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.TblDFN_SALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_DFNsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Sal_Gheymat_AllTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_CalcTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_Calc_SalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_SalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_Sal_GheymatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_Sal_Gheymat_AllTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_Tbl_Moshakhasat_MalekinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_Moshakhasat_MalekinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_Moshakhasat_MalekinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_Mahiyat_FizikiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_Mahiyat_FizikiTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_No_EstefadehTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.TAmlakTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_Moshakhasat_Zamin1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_Moshakhasat_Zamin2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_Moshakhasat_ZaminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_Tbl_Moshakhasat_ZaminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_No_EstefadehTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_TBL_Amlak_MostaghelatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.FSelect_TBL_Amlak_MostaghelatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_Amlak_MostaghelatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_DerakhtTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Tbl_Moshakhasat_SakhtemanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_Moshakhasat_SakhtemanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_EshterakTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_Afrad_MomayeziTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_Tbl_MomayeziTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.Select_DFN_BLOCKTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Amlak.DB_NoSaziDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Amlak.DB_NoSaziDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Amlak.DB_NoSaziDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager.UpdateAll(Amlak.DB_NoSaziDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Amlak.DB_NoSaziDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Amlak.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Amlak.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Amlak.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,134 @@
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\Amlak.exe.config
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\Amlak.exe
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\Amlak.pdb
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\Amlak.xml
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\bank.dll
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\IrisSkin2.dll
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\TextualControl.dll
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\ResolveAssemblyReference.cache
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.Form2.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmCalc.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmDBlock.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmDerakht.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmDGheymat_Arseh.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmFind.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmFindFard.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMahiyat_Fiziki.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMain.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Asli.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Avalieh.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Eshterak.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Malekin.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Momayezi.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Sakhteman.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Zamin.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmNo_Estefadeh.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.Resources.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.vbproj.GenerateResource.Cache
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.exe
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.xml
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.pdb
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmTamlak.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\Amlak.exe.manifest
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\Amlak.application
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.exe.manifest
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.application
+G:\_ Programming\_ VB.Net\Amlak\Amlak\bin\Debug\Sqldblayer.dll
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.exe.licenses
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.PrintRibbonControllerResources.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.XRDesignRibbonControllerResources.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.FrmAfrad_Momayezi.resources
+G:\_ Programming\_ VB.Net\Amlak\Amlak\obj\Debug\Amlak.DlgView_DBlock.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.exe.config
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.xml
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.pdb
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.exe.manifest
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.application
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.exe
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.pdb
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.xml
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.DlgView_DBlock.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.Form2.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmAfrad_Momayezi.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmCalc.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDBlock.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDerakht.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDGheymat_Arseh.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmFind.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmFindFard.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMahiyat_Fiziki.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMain.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Asli.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Avalieh.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Eshterak.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Malekin.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Momayezi.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Sakhteman.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Zamin.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmNo_Estefadeh.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmTamlak.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.Resources.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.PrintRibbonControllerResources.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.XRDesignRibbonControllerResources.resources
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.exe.licenses
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.exe.manifest
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.application
+C:\Documents and Settings\Jasha\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.exe
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.exe.config
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.exe
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.xml
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.pdb
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.DlgView_DBlock.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.Form2.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmAfrad_Momayezi.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmCalc.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDBlock.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDerakht.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDGheymat_Arseh.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmFind.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmFindFard.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMahiyat_Fiziki.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMain.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Asli.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Avalieh.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Eshterak.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Malekin.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Momayezi.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Sakhteman.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Zamin.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmNo_Estefadeh.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmTamlak.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.Resources.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.PrintRibbonControllerResources.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.XRDesignRibbonControllerResources.resources
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Developer\Desktop\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.exe.licenses
+E:\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.exe.config
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\ResolveAssemblyReference.cache
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.DlgView_DBlock.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.Form2.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmAfrad_Momayezi.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmCalc.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDBlock.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDerakht.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmDGheymat_Arseh.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmFind.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmFindFard.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMahiyat_Fiziki.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Asli.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Avalieh.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Eshterak.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Malekin.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Momayezi.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmMoshakhasat_Sakhteman.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmNo_Estefadeh.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.FrmTamlak.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.Resources.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.PrintRibbonControllerResources.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.XRDesignRibbonControllerResources.resources
+E:\Amlak NEW\Amlak\Amlak\obj\Debug\Amlak.vbproj.GenerateResource.Cache
+G:\My Projects\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.exe.config
+F:\My Projects\Amlak NEW\Amlak\Amlak\bin\Debug\Amlak.exe.config
